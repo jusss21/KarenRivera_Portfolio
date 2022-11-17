@@ -7353,7 +7353,7 @@ textarea.form-control-lg {
 
 .me-auto {
   margin-right: auto !important;
-  font-family: 'Cookie', cursive;
+  
 }
 
 .mb-0 {
@@ -7385,6 +7385,7 @@ textarea.form-control-lg {
 
 .mb-auto {
   margin-bottom: auto !important;
+  font-family: 'Cookie', cursive;
 }
 
 .ms-0 {
